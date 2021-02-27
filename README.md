@@ -1,2 +1,3 @@
 # Capstone-Project
-This is my capstone project about Statics and ML
+This github repo introduces my capstone-project about ML and stastics.
+#Topic
